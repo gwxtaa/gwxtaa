@@ -1,11 +1,10 @@
- 👋 Sobre Mim
- 
- Olá, sou Gustavo de Araújo, tenho 17 anos e gosto de jogar video game e assistir futebol
- 
- 👀 Habilidades
- 
- JavaScript, HTML, CSS, Java...
- 
- 📫 Redes Sociais
- 
- Instagram: Gwxtaa
+# 👋 Sobre Mim
+Meu nome é Gustavo, sou estudante de desenvolvimento e gosto de aprender tecnologias novas. Tenho 17 anos e moro em São Paulo - SP.
+
+# 🧠 Habilidades
+- HTML, CSS, JavaScript
+- Java básico
+- Git e GitHub
+
+# 📫 Redes Sociais
+- Instagram: [@gwxtaa](https://instagram.com/gwxtaa)
